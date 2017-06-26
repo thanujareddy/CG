@@ -1,6 +1,6 @@
 /*
     Project :    Java program for Sequence Card Game.
-    Names   :    Thanuja Reddy Boyapalle, Neelamma Kurahatti
+    Name    :    Thanuja Reddy Boyapalle
     Date    :    11/11/16 
  */
 
